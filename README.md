@@ -1,6 +1,6 @@
 # Crypto Prices for xfce4-genmon-plugin
 
-![Иллюстрация к проекту](https://github.com/bellioz/Crypto-Prices-for-xfce4-genmon-plugin/raw/master/screen_crypto_prices.png)
+![Иллюстрация к проекту](https://github.com/bellioz/Crypto-Prices-for-xfce4-genmon-plugin/blob/main/screen_crypto_prices.png)
 
 python3 price_info.py
 
