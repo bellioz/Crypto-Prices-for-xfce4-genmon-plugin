@@ -2,6 +2,10 @@
 
 ![Screenshot](https://github.com/bellioz/Crypto-Prices-for-xfce4-genmon-plugin/blob/main/screen_crypto_prices.png)
 
+pip install pycoingecko
+
+==========
+
 python3 price_info.py
 
 or
